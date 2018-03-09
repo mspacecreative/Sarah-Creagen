@@ -55,6 +55,10 @@ table {
 	-webkit-box-sizing: border-box;
 }
 
+.only-on-mobile {
+	display: none;
+}
+
 /* HAMBURGER MENU
 ----------------------------------*/
 
@@ -480,5 +484,19 @@ nav {
 
 .right-col {
 	padding-top: 25px;
+}
+}
+
+@media (min-width: 981px) {
+
+.only-on-desktop {
+	display: none;
+}
+}
+
+@media (max-width: 980px) {
+
+.only-on-mobile {
+	display: block;
 }
 }
