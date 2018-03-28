@@ -463,7 +463,7 @@ nav li.menu-item-has-children:after {
 }
 
 #wrapper {
-	padding-left: 25px;
+	padding: 0 5%;
 }
 
 #left-side {
