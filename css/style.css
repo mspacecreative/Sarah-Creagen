@@ -451,7 +451,7 @@ nav li.menu-item-has-children:after {
 	font-size: 12px;
 }
 
-nav li, .mobile-nav li {
+nav li {
 	padding: 0;
 }
 
