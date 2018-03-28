@@ -573,7 +573,7 @@ nav li a {
 
 @media (max-device-width: 1366px) {
 
-nav li:before {
+nav li a:after {
 	display: none;
 }
 }
