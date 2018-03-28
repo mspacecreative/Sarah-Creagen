@@ -451,6 +451,10 @@ nav li.menu-item-has-children:after {
 	font-size: 12px;
 }
 
+nav li, .mobile-nav li {
+	padding: 0;
+}
+
 .video  {
 	height: 300px;
 	background: #000;
