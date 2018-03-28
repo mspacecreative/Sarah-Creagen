@@ -338,7 +338,7 @@ nav {
 }
 
 nav li, .mobile-nav li {
-	margin: 0 0 10px;
+	padding: 0 0 10px;
 	position: relative;
 }
 
