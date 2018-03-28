@@ -453,6 +453,7 @@ nav li.menu-item-has-children:after {
 
 .video  {
 	height: 300px;
+	background: #000;
 }
 
 .only-on-mobile {
