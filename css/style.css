@@ -330,7 +330,7 @@ img {
 	background: url(../img/creagen_cover-image_tape.jpg);
 	background-size: contain;
 	height: 100vh;
-	background-position: center;
+	background-position: top center;
 	background-repeat: no-repeat;
 }
 
