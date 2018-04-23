@@ -447,7 +447,7 @@ article:last-of-type {
 	margin-bottom: 0;
 }
 
-nav li.menu-item-has-children:after {
+nav li.menu-item-has-children:after, .mobile-nav li.menu-item-has-children:after {
 	content: '\f0d7';
 	right: 10px;
 	font-family: fontAwesome;
