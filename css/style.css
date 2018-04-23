@@ -520,6 +520,7 @@ nav li a {
 
 section {
 	max-width: 400px;
+	margin: auto;
 }
 
 /*nav li.menu-item-has-children:after, .mobile-nav li.menu-item-has-children:after {
