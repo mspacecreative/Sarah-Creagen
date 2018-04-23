@@ -558,6 +558,13 @@ section {
 }
 }
 
+@media (max-width: 768px) {
+
+#left-side h1 {
+	text-align: left;
+}
+}
+
 .video {
 	background: #000;
 	height: 300px;
@@ -695,13 +702,6 @@ nav li a:after {
 /*#right-side {
 	margin-left: 250px;
 }*/
-}
-
-@media (max-width: 480px) {
-
-#left-side h1 {
-	text-align: left;
-}
 }
 
 @media (max-width: 767px) {
