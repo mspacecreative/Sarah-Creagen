@@ -535,7 +535,7 @@ section {
 }*/
 }
 
-@media (max-width: 812px) {
+@media (max-width: 768px) {
 
 #left-side h1 {
 	font-size: 18px;
@@ -556,9 +556,7 @@ section {
 
 @media (min-width: 768px) and (orientation: portrait) {
 
-#left-side h1 {
-	line-height: 34px;
-}
+
 }
 
 .video {
@@ -647,11 +645,12 @@ nav li.menu-item-has-children a {
 	float: left;
 }
 
-nav {
+/*nav {
 	float: right;
 	padding: 0;
 	display: table;
 }
+*/
 
 nav ul {
 	display: table-cell;
