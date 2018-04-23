@@ -650,12 +650,12 @@ nav li.menu-item-has-children a {
 	padding: 0;
 	display: table;
 }
-*/
 
 nav ul {
 	display: table-cell;
 	vertical-align: middle;
 }
+*/
 
 nav li {
 	display: inline-block;
