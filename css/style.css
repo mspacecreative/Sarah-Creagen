@@ -138,6 +138,7 @@ table {
 .mobile-nav a {
 	color: #333;
 	display: block;
+	padding: 5px 0;
 }
 
 .mobile-nav.is-active {
