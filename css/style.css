@@ -537,6 +537,7 @@ section {
 
 #left-side h1 {
 	font-size: 18px;
+	text-align: left;
 }
 }
 
@@ -555,13 +556,6 @@ section {
 
 #left-side h1 {
 	line-height: 34px;
-}
-}
-
-@media (max-width: 768px) {
-
-#left-side h1 {
-	text-align: left;
 }
 }
 
