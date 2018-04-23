@@ -456,6 +456,7 @@ nav li.menu-item-has-children:after, .mobile-nav li.menu-item-has-children:after
 	top: 1px;
 	line-height: 34px;
 	font-size: 12px;
+	transition: .5s ease-in-out;
 }
 
 nav li {
